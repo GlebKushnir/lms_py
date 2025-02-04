@@ -1,0 +1,23 @@
+Студент Steve Jobs добавлен в группу.
+Студент Liza Taylor добавлен в группу.
+Студент Vasya Deegree добавлен в группу.
+Студент Donna Pablisko добавлен в группу.
+Студент Mike Tyson добавлен в группу.
+Студент Taylor Swift добавлен в группу.
+Студент Andrea Cho добавлен в группу.
+Студент Vu Hong добавлен в группу.
+Студент Don Green добавлен в группу.
+Студент Nina Blue добавлен в группу.
+Группа заполнена. Нельзя добавить больше 10 студентов.
+
+Number: PD1
+Liza Taylor, 25 years old, Female, Record Book: AN145
+Vu Hong, 27 years old, Female, Record Book: AN151
+Steve Jobs, 30 years old, Male, Record Book: AN142
+Don Green, 28 years old, Male, Record Book: AN152
+Nina Blue, 29 years old, Female, Record Book: AN153
+Mike Tyson, 24 years old, Male, Record Book: AN148
+Andrea Cho, 26 years old, Male, Record Book: AN150
+Vasya Deegree, 22 years old, Male, Record Book: AN146
+Donna Pablisko, 23 years old, Female, Record Book: AN147
+Taylor Swift, 21 years old, Female, Record Book: AN149
